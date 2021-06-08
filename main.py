@@ -5,7 +5,7 @@ from pyrogram import Client
 
 select = " "
 
-docs = """Ini akan membuatkan anda strings session
+docs = """Proses Membuat String Session
 
 P -->> Untuk Pyrogram [https://docs.pyrogram.org]
 T -->> Untuk Telethon [https://docs.telethon.dev]
