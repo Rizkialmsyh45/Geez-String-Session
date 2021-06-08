@@ -20,7 +20,7 @@ tutor = """
 """
 
 template = """
-Support: @kenkanasw
+Support: Geez - Projects
             
 <code>STRING_SESSION</code>: <code>{}</code>
 
