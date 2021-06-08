@@ -24,7 +24,7 @@ Support: Geez - Projects
             
 <code>STRING_SESSION</code>: <code>{}</code>
 
-⚠️ <b>Tolong hati-hati untuk melewati nilai ini untuk pihak ketiga</b>"""
+⚠️ <b>Tolong hati-hati dalam membuat string session</b>"""
 
 
 print(docs)
