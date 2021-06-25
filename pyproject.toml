@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "userbot"
+name = "Rzkais"
 version = "0.1.0"
 description = "Script for generating Telegram Session in telethon or pyrogram"
-authors = ["Vckyou <viicky.auliaz@gmail.com>"]
+authors = ["Rzkais <nangkinang676@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9.5"
